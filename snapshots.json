@@ -1,29 +1,217 @@
 {
-  "Our Lady of the Assumption": "ff96826d47208c0adddfb19d37621ee59da3177153522d1c00695612b25e230a",
-  "Korean Martyrs": "906c2538c2242e7bc0cc2b2c4d7ef9e459934e7be9b27b07401b1c720ac82521",
-  "Cathedral of Christ the King": "b0ec67155b49a9852ceaaac611dfa26861c8f33cf1af812b1224807e687a3281",
-  "St. Jude the Apostle": "b94b8875549d5b51f99aea4c183754a974923e7e64948fe535af20f4731791a2",
-  "Emory University Catholic Center": "5721af00f5d3e5cd1e1195e4a7f65a0640fc8f2b4ee86dff462617caf6d37f12",
-  "Mary Our Queen": "c751106558c856fe6fc8f865954df251d8c958f7db15588317d284a865cfe7a2",
-  "Holy Spirit": "75ca246489d88a9e6a6a451a2322ac3558fc2fdade30b17c563df07a7c58fe82",
-  "Holy Family": "dd044f96389031a6a1e616219ae262120e04c77b7c9a0053191f996e420082c3",
-  "St. Brigid": "6960a094283783a87a0912cfb2ec4b8e8d2ee8688e9dbd96327e1035588c7589",
-  "St. Patrick": "336c7663a4c440c61d919c8b36c20b7ee63388e1d4164c7c43da1421421e9c27",
-  "Basilica of the Sacred Heart": "e9d674a688e9e0f9d7383eaedd26d56430d6563d173b0612ea9b6d469ba44b00",
-  "Our Lady of Lourdes": "923cf6aa33aadeadb800bbb072836b5f1de0ae68ca3d470d3b514a2d37819a50",
-  "Georgia Tech Catholic Center": "7a83a2e9ae21f6944a3dc55c240dcc173072df817a229ac4d9b6380547f7eb87",
-  "Sts. Peter and Paul": "0922bb5d898671c99c852a7154e4c6b1817028ade438d65040332bf814a3c91a",
-  "Shrine of the Immaculate Conception": "857f52747c8151aacf415b037c3eaa03efbb91144b7d881b4312b679707fe38e",
-  "St. Andrew": "df8d5121bf1a8ba3d592b5487f17780fc1fab316711fb49633088fe2cd5f8a99",
-  "St. Stephen the Martyr": "cad11ea67230e2fd25841967c79e88d428e7b5f6f41d60f8d30ccb27a03df96a",
-  "St. Anthony of Padua": "b76283e9f5e7cb9e14c6553072a48f31f8ada9d0532b2e4fed93362ba9f4898d",
-  "St. Joseph": "76837800d866ccaa937b20a84b023bd35fc60717963b368da31120c605291fe6",
-  "St. Peter Chanel": "49ce96c8f69372e187eb70d04ac55d7bd480f2a3810f705016f49f8ee60a76f9",
-  "St. Benedict": "dfb0e6c9aec28efa23b8a897f90d5eb922089eeb455da40936bc1abead3b4fbc",
-  "St. Monica": "a1979d4fd2bb71b52327dfb6370b8f7e13dfc2ba2761688f79f99c626855982e",
+  "Our Lady of the Assumption": {
+    "version": 2,
+    "pages": {
+      "https://www.olachurch.org": "b6d50f7434c8c9a880312e3c9c92fc60ca4468bced62d4035bb7ea78d5be26eb",
+      "https://www.olachurch.org/mass-times": "f20aa618514cec9102954fa1ff309ac8b37f4d514a046454f8c5641687b20784",
+      "https://www.olachurch.org/liturgy-sacraments": "31118a6d7e49785b441e269f0b287b8088757e19e0ce4763be5c06395564e984",
+      "https://www.olachurch.org/worship-ministries": "0beaee87c90637800856effbf163133f388d301890ffffa8f144f5f653dc41f5"
+    }
+  },
+  "Korean Martyrs": {
+    "version": 2,
+    "pages": {
+      "https://www.kmccga.com/en": "e75f9016a5e7a414914383817d011bf8eb68fac23c1bb179390d44d8e7f90c5b",
+      "https://www.kmccga.com/en/mass": "55d52b2e4a6039820a1c9e0dc79409997c9482a3a3fce81b750104f5a89a07d9"
+    }
+  },
+  "Cathedral of Christ the King": {
+    "version": 2,
+    "pages": {
+      "https://cathedralctk.com": "528f09d1384d6e4861cafc91648028836b9abbc179c384ff48bc135f4957b7bc",
+      "https://cathedralctk.com/english-mass-schedule/": "ae77935e4b09697372b4962ce92bcd609737b42a3a57f36b3d1272e8d4ce9e3c"
+    }
+  },
+  "St. Jude the Apostle": {
+    "version": 2,
+    "pages": {
+      "https://judeatl.com/": "dc32e80ef9eeb98c12127ff8a21c56512e99223dcb4738255fd769fc87a386f7",
+      "https://judeatl.com/sacraments/mass-schedule-public/": "d135cc854e113119dc870aea2261cc3b1fcf878fd770fed598297eeecfaaf852",
+      "https://judeatl.com/sacraments/massintentions/": "93ab430a64fd85cfe7ed78dfbf6dd5bbeda57b3f09441050f352272904f1151b"
+    }
+  },
+  "Emory University Catholic Center": {
+    "version": 2,
+    "pages": {
+      "https://www.emorycatholic.org": "6eae0b67f7176439e6a44df2f877da15cd5bcc23382870be1dcac97cf4b7ce64",
+      "https://www.emorycatholic.org/mass-schedule": "c1eced761a575b7fd81c21235d77a582a9e78802f12cd1e74c1364940168dab8",
+      "https://www.emorycatholic.org/reconciliation": "86ac64163f1e06b0eb5277673b787e4d708afd7a6f137295fccb7a9b934cd7fb",
+      "https://www.emorycatholic.org/sacramental-records": "fee21dad92ce89e089cb0c0103ac0b2d28f8e7f85993b4dec0fb697170378eeb"
+    }
+  },
+  "Mary Our Queen": {
+    "version": 2,
+    "pages": {
+      "https://maryourqueen.com/": "a9e0d15097a1306eda68570ef41d40e83a7ae595c207b1f092b1e84ea6255f6e",
+      "https://maryourqueen.com/mass-times/": "f22505d48b3e6123a8f8ce466d6fe239c3919c5a036d3c2402909bd33468f2dd",
+      "https://maryourqueen.com/schedule-a-mass-intention/": "1b49106d5160d77c02212b9fe9ec1b8933a07961027f44005bf2be8064ba8aa3",
+      "https://maryourqueen.com/livestream-2/": "e34bb27a8f8df0dd3a31ae3c10a7b93f6834e711631a49bd810c9009123e3ee5"
+    }
+  },
+  "Holy Spirit": {
+    "version": 2,
+    "pages": {
+      "https://www.hsccatl.com": "16f4b1877138a0539140b4a0aa3975953535ce3213f93c7bb794485d246a501f",
+      "https://www.hsccatl.com/AboutUs/Mass-Times": "85d839a0f91227ea078f1f263a6689564cf6d9dac3fcd414b8b03182e333bbe0",
+      "https://www.hsccatl.com/Calendar/50668": "a72d0e84e8d8592e109b0a8bb2bd65d37dc6d8b174bce2d2bdc5899f16598454",
+      "https://www.hsccatl.com/Calendar/50669": "50181af22e154bf5735bdfc77a3e28a35a9fb02d4f7212088aba1a57849a55f5"
+    }
+  },
+  "Holy Family": {
+    "version": 2,
+    "pages": {
+      "https://www.holyfamilycc.org": "077447efcd43660f5d08a5f57fee93ea80631db320b26ba5bd75894e6c47d9dc",
+      "https://www.holyfamilycc.org/mass-times": "cfa4a0f611d4ac497342cc84a1514c32a12a01ac50f3073cfdc2b64dacfb1b42",
+      "https://www.holyfamilycc.org/sacraments": "ea703003055de9321e49837a9e28f6d683a2b4f0f6e28a90a3676eb019ff9f05"
+    }
+  },
+  "St. Brigid": {
+    "version": 2,
+    "pages": {
+      "https://saintbrigid.org/": "b96580e4a2fe5853fe89fdca1fbb8fef491f9f0455b803d6d27c96b998c29d1a",
+      "https://saintbrigid.org/mass-times": "fa337dee71eb8f9caebc34b56701cc6e67691497c2d001a18b662119f14f126f",
+      "https://saintbrigid.org/mass-times/": "fa337dee71eb8f9caebc34b56701cc6e67691497c2d001a18b662119f14f126f",
+      "https://saintbrigid.org/sacraments/baptism/infant-baptism/": "eb6a17f0b0c027235bac0dbd7e830c9be617aa8acb8bedcd2095d227a4d5ccf4"
+    }
+  },
+  "St. Patrick": {
+    "version": 2,
+    "pages": {
+      "https://stpatricksga.org/": "bdcbecc282ec955ba2b278467ff0ee84d7a251444b898ca91aff1c99872c8013",
+      "https://stpatricksga.org/parish-news/2379/": "974b58b3cf9562d0a721ec6a43006c506c402c14978475890cd1eebe3389f8c2",
+      "https://stpatricksga.org/church-schedule/": "f9cef0b7d062b3246be06c35138a9577383e41314b09d1a92ad9293be11ab867"
+    }
+  },
+  "Basilica of the Sacred Heart": {
+    "version": 2,
+    "pages": {
+      "https://sacredheartatlanta.org/": "3d329568ba6a45d96eee4461ac9c21fc104aa1dac8dd02da38428a3a23630326",
+      "https://sacredheartatlanta.org/mass-times/": "5dd8428c7a84353725b0b1c3b471689b1a5a9a855b90d213e8791c259401decd",
+      "https://sacredheartatlanta.org/mass-intentions/": "f14d8faf4a2d140acc361deaa6a807de513c843afb38e00c7a3663ccbaedac06",
+      "https://sacredheartatlanta.org/sacrament-certificate-request/": "fdd5fbc0c3d8d959c960565c725a15daad2b6bca97719353e31924dd10f6e2dc"
+    }
+  },
+  "Our Lady of Lourdes": {
+    "version": 2,
+    "pages": {
+      "https://lourdesatlanta.org/": "e2c238adcae49d0475cbf3e8907d44a7043dc9fb82f3aea096c16554a3a43f8c",
+      "https://lourdesatlanta.org/mass/": "4fd0647b98fbfdaf093ccf0c0460d3a494daa7637b43b2fdb75b31ac667e4c56",
+      "https://lourdesatlanta.org/sacraments/": "db0d4c4e4e22c0101030813d33fe93c5909e5fd624deca51cf7c6963a1dd696e"
+    }
+  },
+  "Georgia Tech Catholic Center": {
+    "version": 2,
+    "pages": {
+      "https://www.gtcatholic.org": "11f0b60110440306a7e2964724590f44f4a80c9f5f4b7b41b196a5a5a76bea72",
+      "https://www.gtcatholic.org/sacraments/mass-and-confession-times/": "46376d39e7df2300e70960a2b3578c63c47d2751d68a5919922e126f4962460c",
+      "https://www.gtcatholic.org/sacraments/mass-intention-request/": "45f38f87c0db241e3427aa4f5fc2da49aaaae2469df6b972fb45b22f8b1e3612",
+      "https://www.gtcatholic.org/sacraments/": "03222e4098f4d627de36427214f676c8223211a407d233ce8734c9b619099f0e"
+    }
+  },
+  "Sts. Peter and Paul": {
+    "version": 2,
+    "pages": {
+      "https://www.ssppatl.org": "940b8eda91deb5b853e0577e714557c5aa39c094c1ad5e643117df39c297553f",
+      "https://www.ssppatl.org/sacraments": "0ec6c770d01d1ca6023b87c22239f95017df0586e74900b7ee87347c64f7d9c7"
+    }
+  },
+  "Shrine of the Immaculate Conception": {
+    "version": 2,
+    "pages": {
+      "https://www.catholicshrineatlanta.org": "14b55c1706586ef07b56ef84c3da7f788ba3af204314afa44b0ace3e1dd3d3ff",
+      "https://www.catholicshrineatlanta.org/online-mass": "ec65ce418518ca36f6fd98ad6b4cb1b522d0000afd3d5051d4933210b056d0ca",
+      "https://www.catholicshrineatlanta.org/liturgy-and-worship": "2b85e04f62c61b0d42d2251cb05f366d22192461d0b5d2b9c4437ba0f565ea22",
+      "https://www.catholicshrineatlanta.org/sacraments": "502f8d1059916a27e289baa709ec4f962681cb5db3e79e66e4225bae5e94c2b9"
+    }
+  },
+  "St. Andrew": {
+    "version": 2,
+    "pages": {
+      "https://www.standrewcatholic.org": "35c954c6f027b02dd4c6f9bb81f045f26a65400689fe4e4c6e5f8e7c63512f20",
+      "https://www.standrewcatholic.org/christmas": "069f696f44c9c59f13ea156b743aee7180f2242f225b84ab9e9250a5504b7706",
+      "https://www.standrewcatholic.org/mass-times-and-adoration---horario-de-misas": "909813cfc5e9c5e9542599b52a65351aa2fb7265ab650c34049fb38cd2d52655",
+      "https://www.standrewcatholic.org/mass-times-popup": "83a159cd08bfee5d09ac9f810e107259e36c6e5c6ef680b771958491db12f2ca"
+    }
+  },
+  "St. Stephen the Martyr": {
+    "version": 2,
+    "pages": {
+      "https://www.ststephenthemartyr.info": "3e8341f4e2765bca6824595c46d7f85c24d44982515b9269391d8085c9e3e106"
+    }
+  },
+  "St. Anthony of Padua": {
+    "version": 2,
+    "pages": {
+      "https://stanthonyatlanta.org/": "9db964e43ada142f92b513488ae80d3fd7880f567d9378c1bb148b3e87cc0242",
+      "https://stanthonyatlanta.org/liturgy-mass/": "4f769700ab2b9857cfed63a7a1c32d7773974b44240b141cef3598426fab5231"
+    }
+  },
+  "St. Joseph": {
+    "version": 2,
+    "pages": {
+      "https://www.saintjosephcc.org": "402112d079afe027a63764abf00f7373633e9da7b76378667ed200acf19d96f1",
+      "https://www.saintjosephcc.org/": "402112d079afe027a63764abf00f7373633e9da7b76378667ed200acf19d96f1",
+      "https://www.saintjosephcc.org/embark-sacraments": "ad8b45a3cee8c2c535a48281844d2fd45f97ee7f1a9f9dcc950d49da32c31b2f",
+      "https://www.saintjosephcc.org/sacramentos": "b1f6fa2b503de1138ec47c8ab3cb51a7d6ccc0a119bbfebf89334ddf07b52081"
+    }
+  },
+  "St. Peter Chanel": {
+    "version": 2,
+    "pages": {
+      "https://www.stpeterchanel.org": "b47e071f843047d86f2c93a1145729a4367979bc9fd3f1ed95dcc1cba8fbc2dd",
+      "https://www.stpeterchanel.org/mass-confessions": "f3134871102b1fae9d0c5eec286af3360407c657153bd20cb59148621ad7a061",
+      "https://www.stpeterchanel.org/posts/scheduledfunerals": "14e8d45bf560ef71945648084df27ab78fbfd52b7767c40ebe40708cb07ecab3",
+      "https://www.stpeterchanel.org/sacraments": "aa93c0dee0dd5ebc5bca4c49a052a65c2f978172101659733b7e1652a578cf71"
+    }
+  },
+  "St. Benedict": {
+    "version": 2,
+    "pages": {
+      "https://stbenedict.net/": "5613a4013f282e158942ee4e964ecc91e9bbf11813e3b7855bc220d4007aaa47",
+      "https://stbenedict.net/mass-times/": "398e285bffa709a7c68d28ed99dbbcd47bec366b73a5e6d7efed3686604411e5",
+      "https://stbenedict.net/mass-intentions/": "3b4a545bb7d6c504f858d1023bcdb47b34af0cf7358df98ea937c52489e0bf2e",
+      "https://stbenedict.net/sacraments/": "0962d11bbd5d56194c4f433a58d65e74f7521b80f0428abf9744ac1331ec66d2"
+    }
+  },
+  "St. Monica": {
+    "version": 2,
+    "pages": {
+      "https://saintmonicas.com/": "af6a5186d80221f1a3d061b2e61ce8a86fb0915b1da3a2575e34bfb78c032ac1",
+      "https://saintmonicas.com/mass-times/": "e171ce124b02f26afb32201084922b8390d817588b10750ca46d2f973a0480e7",
+      "https://saintmonicas.com/faith-formation/adult-faith-formation/fr-tran-explains-the-latin-mass/": "3a4680bdbe70bb4988825957b5a32f654b98da0d0f6073550c4252b26f4bfc9b",
+      "https://saintmonicas.com/resources/mass-intentions/": "80307ae0c5ebc9f645a8e4b748cdd5a1ceb66ad5f300727918c00d7142b0097b"
+    }
+  },
   "St. Thomas Aquinas": "6ceb159ebf6b4052a0d49dd8212431142916ed88d3149a8cf632caa5677c136a",
-  "St. Marguerite d’Youville": "94d930e801ea7c51ec8d3abf003cbc2c70ee2718f6479aba4c54c1b3320a4dc0",
+  "St. Marguerite d’Youville": {
+    "version": 2,
+    "pages": {
+      "https://stmdy.org/": "644d5bc8f1ec06fc853786ac4432cf1fca26d351ac1ad2c534c8222a242981c5",
+      "https://stmdy.org/sacraments/": "af20955655c58c9fbf00621f6f7f8ccbece018e3605d17ed33fe979a7314d3f4"
+    }
+  },
   "Transfiguration": "1fa51c1ef70141a2f2a83434e748faa4b01037a5c5d7626c0c46eafa592da163",
-  "St. Andrew Kim": "04dfa8a01f1db279195dc80e2b8f6a31d5b588333886487ab1eb815d7fb3ed28",
-  "St. Lawrence": "958d8febeed8f6d311cbc941ce7dd91d3e17392e60f5ddd217c6189a1a2e5456"
+  "St. Andrew Kim": {
+    "version": 2,
+    "pages": {
+      "https://www.sakc.org": "ce39c386ebf56bb47d94f4da84b4eea71ac22e8c778253d384e415244b818a14"
+    }
+  },
+  "St. Lawrence": {
+    "version": 2,
+    "pages": {
+      "https://www.saintlaw.org": "e92e1cf865f2c991c16012840e9f82de831fdf3cc7588f0c663c5300eb4d5855",
+      "https://www.saintlaw.org/masstimes": "e156c076cfeaeba3cbd63ba1891a29a897a5c68997605b874f10a5863795e2bd",
+      "https://www.saintlaw.org/new-page-2": "2a196af33af682f9aed118bec38d1434621e22b90b013ebf8f7aa27b71e48056",
+      "https://www.saintlaw.org/sacraments": "384d1861264be5813d431e746bde4bfbbe76c7680c13ad1e957bad61dcac5c2c"
+    }
+  },
+  "All Saints": {
+    "version": 2,
+    "pages": {
+      "https://allsaintsdunwoody.org/": "e589f766d926ea567762e6f3c320a585da27f1e4afb4b80e2fcd0ee0b8dbd94d",
+      "https://allsaintsdunwoody.org/worship/mass-times/": "7e2c269e9297a8fcd62958d48c9678ea51641f837c66853633bbb2f5e2378ba9",
+      "https://allsaintsdunwoody.org/about-us/calendar/": "53a80d54a9a98f398f3ec50a293c2e51119486b523ed40fa430bafad2d7d4246"
+    }
+  }
 }
