@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Our Lady of the Assumption",
+    "drive": "5–12",
+    "url": "https://www.olachurch.org",
+    "range": "Main",
+    "times": [
+      "7:30 AM",
+      "9:00 AM",
+      "11:30 AM",
+      "5:30 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Immaculate Heart of Mary",
+    "drive": "10–18",
+    "url": "https://www.ihmatlanta.org",
+    "range": "Main",
+    "times": [
+      "9:00 AM",
+      "11:30 AM",
+      "5:00 PM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Korean Martyrs",
+    "drive": "10–18",
+    "url": "https://www.kmccga.com/en",
+    "range": "Main",
+    "times": [
+      "11:45 AM"
+    ],
+    "vigil": "",
+    "notes": ""
+  },
+  {
+    "name": "Holy Cross",
+    "drive": "10–20",
+    "url": "https://www.holycrossatlanta.org",
+    "range": "Main",
+    "times": [
+      "9:00 AM",
+      "11:00 AM",
+      "5:30 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "All Saints",
+    "drive": "12–22",
+    "url": "https://www.allsaintsdunwoody.org",
+    "range": "Main",
+    "times": [
+      "8:00 AM",
+      "10:30 AM",
+      "5:00 PM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Cathedral of Christ the King",
+    "drive": "15–25",
+    "url": "https://cathedralctk.com",
+    "range": "Main",
+    "times": [
+      "7:30 AM",
+      "9:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "4:00 PM",
+      "5:30 PM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "St. Jude the Apostle",
+    "drive": "15–25",
+    "url": "https://www.judeatl.com",
+    "range": "Main",
+    "times": [
+      "7:30 AM",
+      "8:30 AM",
+      "10:00 AM",
+      "11:30 AM",
+      "5:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Emory University Catholic Center",
+    "drive": "15–25",
+    "url": "https://www.emorycatholic.org",
+    "range": "Main",
+    "times": [
+      "9:00 AM",
+      "5:00 PM"
+    ],
+    "vigil": "",
+    "notes": "Campus schedules vary on breaks"
+  },
+  {
+    "name": "St. Thomas More",
+    "drive": "18–28",
+    "url": "https://www.stmgaparish.org",
+    "range": "Main",
+    "times": [
+      "9:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "5:30 PM"
+    ],
+    "vigil": "5:30 PM",
+    "notes": ""
+  },
+  {
+    "name": "Mary Our Queen",
+    "drive": "18–28",
+    "url": "https://www.maryourqueen.com",
+    "range": "Main",
+    "times": [
+      "8:30 AM",
+      "11:00 AM",
+      "5:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Holy Spirit",
+    "drive": "20–30",
+    "url": "https://www.hsccatl.com",
+    "range": "Main",
+    "times": [
+      "8:30 AM",
+      "10:00 AM",
+      "11:30 AM",
+      "5:30 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Holy Family",
+    "drive": "22–32",
+    "url": "https://www.holyfamilycc.org",
+    "range": "Main",
+    "times": [
+      "8:30 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "5:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "St. Brigid",
+    "drive": "22–35",
+    "url": "https://www.saintbrigid.org",
+    "range": "Main",
+    "times": [
+      "7:30 AM",
+      "9:00 AM",
+      "11:00 AM",
+      "1:00 PM",
+      "5:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "St. Patrick",
+    "drive": "22–35",
+    "url": "https://www.stpatricksga.org",
+    "range": "Main",
+    "times": [
+      "10:00 AM",
+      "12:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Basilica of the Sacred Heart",
+    "drive": "22–35",
+    "url": "https://www.sacredheartatlanta.org",
+    "range": "Main",
+    "times": [
+      "8:00 AM",
+      "10:00 AM",
+      "5:00 PM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Our Lady of Lourdes",
+    "drive": "22–35",
+    "url": "https://www.lourdesatlanta.org",
+    "range": "Main",
+    "times": [
+      "8:00 AM",
+      "10:30 AM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Georgia Tech Catholic Center",
+    "drive": "22–35",
+    "url": "https://www.gtcatholic.org",
+    "range": "Main",
+    "times": [
+      "9:30 AM",
+      "11:30 AM",
+      "5:00 PM",
+      "9:00 PM"
+    ],
+    "vigil": "",
+    "notes": "Campus schedules vary on breaks"
+  },
+  {
+    "name": "Sts. Peter and Paul",
+    "drive": "25–35",
+    "url": "https://www.ssppatl.org",
+    "range": "Main",
+    "times": [
+      "8:30 AM",
+      "11:30 AM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Shrine of the Immaculate Conception",
+    "drive": "25–35",
+    "url": "https://www.catholicshrineatlanta.org",
+    "range": "Main",
+    "times": [
+      "8:30 AM",
+      "11:00 AM"
+    ],
+    "vigil": "",
+    "notes": ""
+  },
+  {
+    "name": "St. Andrew",
+    "drive": "25–35",
+    "url": "https://www.standrewcatholic.org",
+    "range": "Main",
+    "times": [
+      "10:00 AM",
+      "1:00 PM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "Corpus Christi",
+    "drive": "25–35",
+    "url": "https://www.corpuschristicc.org",
+    "range": "Main",
+    "times": [
+      "8:00 AM",
+      "10:00 AM",
+      "11:00 AM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": "11 AM needs confirmation"
+  },
+  {
+    "name": "St. John Neumann",
+    "drive": "25–35",
+    "url": "https://www.sjnlilburn.com",
+    "range": "Main",
+    "times": [
+      "8:30 AM",
+      "11:00 AM",
+      "5:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "St. Stephen the Martyr",
+    "drive": "25–35",
+    "url": "https://www.ststephenthemartyr.info",
+    "range": "Main",
+    "times": [
+      "8:30 AM",
+      "11:00 AM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "St. Paul of the Cross",
+    "drive": "25–35",
+    "url": "https://www.saintpaulofthecross.org",
+    "range": "Main",
+    "times": [
+      "7:00 AM",
+      "10:00 AM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": ""
+  },
+  {
+    "name": "St. Anthony of Padua",
+    "drive": "25–35",
+    "url": "https://www.stanthonyatlanta.org",
+    "range": "Main",
+    "times": [
+      "9:00 AM"
+    ],
+    "vigil": "",
+    "notes": ""
+  },
+  {
+    "name": "St. Thomas the Apostle",
+    "drive": "25–40",
+    "url": "https://www.sttacc.org",
+    "range": "Borderline",
+    "times": [
+      "7:45 AM",
+      "9:30 AM",
+      "11:30 AM",
+      "5:00 PM"
+    ],
+    "vigil": "4:30 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. Joseph",
+    "drive": "30–40",
+    "url": "https://www.saintjosephcc.org",
+    "range": "Borderline",
+    "times": [
+      "7:00 AM",
+      "9:00 AM",
+      "11:00 AM",
+      "5:30 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. Ann",
+    "drive": "28–40",
+    "url": "https://www.st-ann.org",
+    "range": "Borderline",
+    "times": [
+      "7:00 AM",
+      "8:30 AM",
+      "10:30 AM",
+      "12:30 PM",
+      "6:00 PM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. Peter Chanel",
+    "drive": "30–40",
+    "url": "https://www.stpeterchanel.org",
+    "range": "Borderline",
+    "times": [
+      "7:30 AM",
+      "9:00 AM",
+      "10:45 AM",
+      "12:30 PM",
+      "5:00 PM"
+    ],
+    "vigil": "4:30 PM",
+    "notes": "Borderline: may exceed 35 min Saturday vigil needs confirmation"
+  },
+  {
+    "name": "St. Benedict",
+    "drive": "30–40",
+    "url": "https://www.stbenedict.net",
+    "range": "Borderline",
+    "times": [
+      "7:15 AM",
+      "8:45 AM",
+      "10:45 AM",
+      "12:30 PM",
+      "5:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. Monica",
+    "drive": "30–45",
+    "url": "https://www.saintmonicas.com",
+    "range": "Borderline",
+    "times": [
+      "10:45 AM",
+      "12:45 PM",
+      "4:00 PM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. Thomas Aquinas",
+    "drive": "30–45",
+    "url": "https://www.sta.org",
+    "range": "Borderline",
+    "times": [
+      "8:00 AM",
+      "10:00 AM",
+      "12:00 PM",
+      "5:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. Marguerite d’Youville",
+    "drive": "30–45",
+    "url": "https://www.stmdy.org",
+    "range": "Borderline",
+    "times": [
+      "8:30 AM",
+      "11:00 AM"
+    ],
+    "vigil": "5:30 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "Transfiguration",
+    "drive": "30–45",
+    "url": "https://www.transfiguration.com",
+    "range": "Borderline",
+    "times": [
+      "7:45 AM",
+      "9:30 AM",
+      "11:30 AM",
+      "5:00 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. Andrew Kim",
+    "drive": "30–45",
+    "url": "https://www.sakc.org",
+    "range": "Borderline",
+    "times": [
+      "12:45 PM"
+    ],
+    "vigil": "",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. Lawrence",
+    "drive": "35–50",
+    "url": "https://www.saintlaw.org",
+    "range": "Borderline",
+    "times": [
+      "8:00 AM",
+      "10:00 AM",
+      "12:30 PM"
+    ],
+    "vigil": "5:00 PM",
+    "notes": "Borderline: may exceed 35 min"
+  },
+  {
+    "name": "St. John the Evangelist",
+    "drive": "30–45",
+    "url": "https://www.stjohnevangelist.net",
+    "range": "Borderline",
+    "times": [
+      "9:00 AM"
+    ],
+    "vigil": "4:00 PM",
+    "notes": "Borderline: may exceed 35 min"
+  }
+]
