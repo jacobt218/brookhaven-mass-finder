@@ -1,0 +1,22 @@
+
+name: Weekly Mass Schedule Check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-schedules:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out website
+        uses: actions/checkout@v4
+
+      - name: Verify website files
+        run: |
+          test -f index.html
+          echo "Website file found."
+          echo "Ready for schedule checker setup."
