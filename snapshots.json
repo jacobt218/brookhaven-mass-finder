@@ -2,7 +2,7 @@
   "Our Lady of the Assumption": {
     "version": 2,
     "pages": {
-      "https://www.olachurch.org": "b6d50f7434c8c9a880312e3c9c92fc60ca4468bced62d4035bb7ea78d5be26eb",
+      "https://www.olachurch.org": "ede3933622507e6ca83322a33ea2efd7b9c85874c4c6dad05b76e177cb35298e",
       "https://www.olachurch.org/mass-times": "f20aa618514cec9102954fa1ff309ac8b37f4d514a046454f8c5641687b20784",
       "https://www.olachurch.org/liturgy-sacraments": "31118a6d7e49785b441e269f0b287b8088757e19e0ce4763be5c06395564e984",
       "https://www.olachurch.org/worship-ministries": "0beaee87c90637800856effbf163133f388d301890ffffa8f144f5f653dc41f5"
@@ -18,14 +18,14 @@
   "Cathedral of Christ the King": {
     "version": 2,
     "pages": {
-      "https://cathedralctk.com": "528f09d1384d6e4861cafc91648028836b9abbc179c384ff48bc135f4957b7bc",
+      "https://cathedralctk.com": "8237e139dd3bacdafd8f9834ccdd7b875c55b7fcd63870f408db411d00e9c8e0",
       "https://cathedralctk.com/english-mass-schedule/": "ae77935e4b09697372b4962ce92bcd609737b42a3a57f36b3d1272e8d4ce9e3c"
     }
   },
   "St. Jude the Apostle": {
     "version": 2,
     "pages": {
-      "https://judeatl.com/": "dc32e80ef9eeb98c12127ff8a21c56512e99223dcb4738255fd769fc87a386f7",
+      "https://judeatl.com/": "7f48ced9905e33d625b4e65429c7eafe0b5724059864e935204196dc12078d9c",
       "https://judeatl.com/sacraments/mass-schedule-public/": "d135cc854e113119dc870aea2261cc3b1fcf878fd770fed598297eeecfaaf852",
       "https://judeatl.com/sacraments/massintentions/": "93ab430a64fd85cfe7ed78dfbf6dd5bbeda57b3f09441050f352272904f1151b"
     }
@@ -51,7 +51,7 @@
   "Holy Spirit": {
     "version": 2,
     "pages": {
-      "https://www.hsccatl.com": "16f4b1877138a0539140b4a0aa3975953535ce3213f93c7bb794485d246a501f",
+      "https://www.hsccatl.com": "42d8cd11fcdfdacb6111ede13d39760af88e6f1b75fd377254c1f996b18266d4",
       "https://www.hsccatl.com/AboutUs/Mass-Times": "85d839a0f91227ea078f1f263a6689564cf6d9dac3fcd414b8b03182e333bbe0",
       "https://www.hsccatl.com/Calendar/50668": "a72d0e84e8d8592e109b0a8bb2bd65d37dc6d8b174bce2d2bdc5899f16598454",
       "https://www.hsccatl.com/Calendar/50669": "50181af22e154bf5735bdfc77a3e28a35a9fb02d4f7212088aba1a57849a55f5"
@@ -68,8 +68,7 @@
   "St. Brigid": {
     "version": 2,
     "pages": {
-      "https://saintbrigid.org/": "b96580e4a2fe5853fe89fdca1fbb8fef491f9f0455b803d6d27c96b998c29d1a",
-      "https://saintbrigid.org/mass-times": "fa337dee71eb8f9caebc34b56701cc6e67691497c2d001a18b662119f14f126f",
+      "https://saintbrigid.org/": "899106b5d9dbfd779425e597b22003ec572dd902fc5a753f5160ba8abd72b163",
       "https://saintbrigid.org/mass-times/": "fa337dee71eb8f9caebc34b56701cc6e67691497c2d001a18b662119f14f126f",
       "https://saintbrigid.org/sacraments/baptism/infant-baptism/": "eb6a17f0b0c027235bac0dbd7e830c9be617aa8acb8bedcd2095d227a4d5ccf4"
     }
@@ -118,7 +117,7 @@
   "Shrine of the Immaculate Conception": {
     "version": 2,
     "pages": {
-      "https://www.catholicshrineatlanta.org": "14b55c1706586ef07b56ef84c3da7f788ba3af204314afa44b0ace3e1dd3d3ff",
+      "https://www.catholicshrineatlanta.org": "a42719fea26d9d4727d03227c22e8b17707c4b2d2b868d3be268eb219d12766b",
       "https://www.catholicshrineatlanta.org/online-mass": "ec65ce418518ca36f6fd98ad6b4cb1b522d0000afd3d5051d4933210b056d0ca",
       "https://www.catholicshrineatlanta.org/liturgy-and-worship": "2b85e04f62c61b0d42d2251cb05f366d22192461d0b5d2b9c4437ba0f565ea22",
       "https://www.catholicshrineatlanta.org/sacraments": "502f8d1059916a27e289baa709ec4f962681cb5db3e79e66e4225bae5e94c2b9"
@@ -176,7 +175,7 @@
   "St. Monica": {
     "version": 2,
     "pages": {
-      "https://saintmonicas.com/": "af6a5186d80221f1a3d061b2e61ce8a86fb0915b1da3a2575e34bfb78c032ac1",
+      "https://saintmonicas.com/": "a0ea99ee1151fe7e72510ee50506cffe76b2a62343776d339888969ab5f8b980",
       "https://saintmonicas.com/mass-times/": "e171ce124b02f26afb32201084922b8390d817588b10750ca46d2f973a0480e7",
       "https://saintmonicas.com/faith-formation/adult-faith-formation/fr-tran-explains-the-latin-mass/": "3a4680bdbe70bb4988825957b5a32f654b98da0d0f6073550c4252b26f4bfc9b",
       "https://saintmonicas.com/resources/mass-intentions/": "80307ae0c5ebc9f645a8e4b748cdd5a1ceb66ad5f300727918c00d7142b0097b"
@@ -190,11 +189,19 @@
       "https://stmdy.org/sacraments/": "af20955655c58c9fbf00621f6f7f8ccbece018e3605d17ed33fe979a7314d3f4"
     }
   },
-  "Transfiguration": "1fa51c1ef70141a2f2a83434e748faa4b01037a5c5d7626c0c46eafa592da163",
+  "Transfiguration": {
+    "version": 2,
+    "pages": {
+      "https://transfiguration.com/": "44d53692e09276fc5d96950694f03dccfb555e3b163f2fa5b4eb71e6fb5fcbf7",
+      "https://transfiguration.com/mass-times/": "3d96ccfb2ccd8f3beb97767e3d313108bf7c682acc0866a9f7c7d718f37408c4",
+      "https://transfiguration.com/emergency-procedures-during-mass/": "34d9600f17a7ce4954b89721f02abd4eecb9761bd83ae09842ba12582c20b543",
+      "https://transfiguration.com/livestream-mass/": "9c69f21cf5a75fa1129d75b9028c7961176d208646672f01e607b5a095c99428"
+    }
+  },
   "St. Andrew Kim": {
     "version": 2,
     "pages": {
-      "https://www.sakc.org": "ce39c386ebf56bb47d94f4da84b4eea71ac22e8c778253d384e415244b818a14"
+      "https://www.sakc.org": "de3611f7e3201f6447ea5151f6f06d3000d2f41d504a799464d9f6487b6ac6a1"
     }
   },
   "St. Lawrence": {
@@ -209,9 +216,10 @@
   "All Saints": {
     "version": 2,
     "pages": {
-      "https://allsaintsdunwoody.org/": "e589f766d926ea567762e6f3c320a585da27f1e4afb4b80e2fcd0ee0b8dbd94d",
-      "https://allsaintsdunwoody.org/worship/mass-times/": "7e2c269e9297a8fcd62958d48c9678ea51641f837c66853633bbb2f5e2378ba9",
-      "https://allsaintsdunwoody.org/about-us/calendar/": "53a80d54a9a98f398f3ec50a293c2e51119486b523ed40fa430bafad2d7d4246"
+      "https://allsaintsdunwoody.org/": "76a2ddb9a6163afed5ba20ad9cb84c90d0faafb516188915a6bef97083c56767",
+      "https://allsaintsdunwoody.org/worship/mass-times/": "f803f0e0221ca794661943179d612a2809807d332fb800852ea1fd32f2497b4d",
+      "https://allsaintsdunwoody.org/2026/11/22/thanksgiving-holiday-schedule/": "7827de667b30c7bfafd09fd21ba04f6555d9ee3a9a5e16ebd714782fdb474ab8",
+      "https://allsaintsdunwoody.org/about-us/calendar/": "942b637e8c5fb925f5d6249cf8f00ce2a1b5104514ec5657fb619ddf99f45617"
     }
   }
 }
